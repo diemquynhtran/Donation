@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Donation4.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="menuReport">Report</string>
+    <string name="menuDonate">Donate</string>
+    <string name="menuReset">Reset</string>
+
+    <string name="reportTitle">Report</string>
+    <string name="reportList">Report</string>
+    <string name="donateTitle">Welcome Homer</string>
+    <string name="donateSubtitle">Please Give Generously</string>
+    <string name="donateButton">Donate</string>
+    <string name="paypal">paypal</string>
+    <string name="direct">direct</string>
+    <string name="amount">amount</string>
+    <string name="total">total</string>
+    <string name="totalSoFar">totalSoFar</string>
+
+    <string name="defaultAmount">00</string>
+    <string name="defaultMethod">N/A</string>
+    <string name="directButton">Direct</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
